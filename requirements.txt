@@ -1,0 +1,8 @@
+tabulate
+openpyxl
+datetime
+json
+re
+csv
+sys
+pytest
